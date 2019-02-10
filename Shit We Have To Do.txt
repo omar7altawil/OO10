@@ -1,0 +1,26 @@
+signup ,login (google shit?)                                                      done
+Fix tags section on RateablePage                                                  done
+Disable rating bar rating, when not rating LOL                                    done
+fix crate ratable button(disaper)                                                 done
+Fix selected button on the bottom of the screen, zahid said it is easy       unfixable
+Fix RateablePage Layout, add more infoixmation                                    done
+2-fix fucking double click when researching                                       done
+
+
+
+11-Tages should be clickable.
+
+Create a beautiful UI
+
+7 - verify if user is logged in when adding a new rateable
+
+user account page
+catograys page
+9-Making a cute logo
+
+
+
+
+
+
+100 -add ads in between each list to earn some moneyyyyy :3
